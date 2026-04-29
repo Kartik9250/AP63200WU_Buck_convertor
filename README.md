@@ -72,8 +72,6 @@ VAA  ──► Screw terminal (J2)
 
 ## Images
 
-> Add your schematic, PCB routing, and 3D render screenshots to an `/images` folder and link them below.
-
 | Schematic | PCB Routing | 3D Render |
 |---|---|---|
 | ![Schematic](images/schematic.png) | ![PCB](images/pcb_routing.png) | ![3D](images/3d_render.png) |
